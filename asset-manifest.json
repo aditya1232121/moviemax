@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moviemax/static/css/main.3132612c.css",
+    "main.js": "/moviemax/static/js/main.24770c50.js",
+    "static/media/backup.png": "/moviemax/static/media/backup.4618793166f39aa1ff3d.png",
+    "static/media/pagenotfound.png": "/moviemax/static/media/pagenotfound.28f3aa27eae97df57582.png",
+    "static/media/Logo.png": "/moviemax/static/media/Logo.ea2bdacc7a609252d689.png",
+    "index.html": "/moviemax/index.html",
+    "main.3132612c.css.map": "/moviemax/static/css/main.3132612c.css.map",
+    "main.24770c50.js.map": "/moviemax/static/js/main.24770c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3132612c.css",
+    "static/js/main.24770c50.js"
+  ]
+}
